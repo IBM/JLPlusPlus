@@ -1,4 +1,4 @@
-# jlplusplus
+# JLPlusPlus
 Python code to reproduce the experimental evaluation of the algorithms proposed in the NeurIPS 2022 publication "Approximate Euclidean lengths and distances beyond Johnson-Lindenstrauss".
 If you download or use this code for research purposes please cite the corresponding [publication](https://openreview.net/forum?id=_N4k45mtnuq):
 
